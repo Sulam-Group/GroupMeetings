@@ -5,4 +5,4 @@
 | 06/17/20  | Kuo-Wei  | Learned Proximal Networks for QSM  |   |
 | 07/15/20  |  ? |   |   |
 | 08/12/20  | Malika | TBD |   |
-| 09/16/20  |  ? |   |   |
+| 09/24/20  |  Jeff Ruffolo | Deep learning in Protein Folding  |   |
